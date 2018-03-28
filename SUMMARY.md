@@ -3,7 +3,6 @@
 ### 前言
 
 - [序言](README.md)
-- [背景](README.md)
 - [安装](install/index.md)
  - [Ubuntu](install/ubuntu.md)
  - [Docker](install/docker.md)
