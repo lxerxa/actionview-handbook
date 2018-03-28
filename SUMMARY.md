@@ -4,6 +4,9 @@
 
 - [序言](README.md)
 - [背景](README.md)
+- [安装](install/index.md)
+ - [Ubuntu](install/ubuntu.md)
+ - [Docker](install/docker.md)
 
 ## 项目
 - [项目中心](project/myproject.md)
@@ -37,10 +40,12 @@
  - [通知事件](scheme/events.md)
 
 ### 用户管理
-
 - [用户](user/user.md)
 - [组](user/group.md)
 
 ### 项目管理
-
 - [项目](project/project.md)
+
+### 设置
+- [个人设置](setting/my.md)
+- [系统设置](setting/sys.md)
